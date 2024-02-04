@@ -1,1 +1,1 @@
-# Basic-Student-Mangement-
+# Basic-Student-Management-
